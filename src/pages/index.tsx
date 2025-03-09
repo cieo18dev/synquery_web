@@ -1,4 +1,3 @@
-// pages/index.tsx
 import Chat from "../components/Chat";
 import { Container } from "@mui/material";
 
